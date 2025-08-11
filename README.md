@@ -4,7 +4,7 @@ OpenCore: 1.0.5
 
 
 CPU: intel 8500(UHD Graphics 630)</br>
-微星: B360M 迫击炮</br>
+MSI: B360M (微星B360M迫击炮)</br>
 wifi: FV-T919(BCM94360)</br>
 nvme: Samsung SSD 970 EVO 500GB</br>
 MacOS: Sequoia 15.6</br>
